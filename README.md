@@ -1,4 +1,4 @@
-# email-signature
+# Email Signature
 HTML email signature. Helpful for initial email setup.
 
 simple-signature.html - This file contains basic information like name, designation, company name and social media accounts link. There's a total 25 social media sites icons available in social-media icons folder.
